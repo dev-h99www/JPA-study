@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79baeb0f-2d32-4aea-877a-261b2c3e2f52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/chap02-persistence-context.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/lib/byte-buddy-1.11.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/lib/hibernate-commons-annotations-5.1.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/lib/hibernate-core-5.6.5.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/lib/hibernate-entitymanager-5.6.5.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/lib/jandex-2.4.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/lib/jboss-logging-3.4.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/lib/jta-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/lib/ojdbc8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/out/production/chap02-persistence-context/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/out/production/chap02-persistence-context/com/greedy/section01/entitymanager/EntitymanagerLifeCycleTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/src/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap02-persistence-context/src/com/greedy/section01/entitymanager/EntitymanagerLifeCycleTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RmACeeA7nMJ4jUli5mjIgkayu1" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/dissu/Desktop/workspace/JPA-study/chap02-persistence-context",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79baeb0f-2d32-4aea-877a-261b2c3e2f52" name="Changes" comment="" />
+      <created>1687844756999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687844756999</updated>
+      <workItem from="1687844758106" duration="532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
